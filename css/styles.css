@@ -105,3 +105,24 @@ body {
 .logo-two-name {
     color: #f4f4fd;
 }
+.studio-link {
+    color: #2e2f42;
+}
+.studio-link:hover {
+    color: #404bbf;
+}
+.studio-link:active {
+    color: #404bbf;
+}
+.adresss {
+    font-style: normal;
+}
+.mail-link {
+    color: #434455;
+}
+.mail-link:hover {
+    color: #404bbf;
+}
+.mail-link:active {
+    color: #404bbf;
+}
